@@ -1,0 +1,1 @@
+ballY += int(ballVelocity)
